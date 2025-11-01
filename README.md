@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to ThatCodingFrog's Profile!
+
+Hello, I'm ThatCodingFrog.  I like programming games and building things to add more features to existing programs.
+
+Current Projects:
+- Orion Editor (with AwesomeOrion) for Khan Academy
+- KA3D - 3D library with physics built on three.js
+
+Khan Academy profile: https://www.khanacademy.org/profile/kaid_975241023347256277598232/projects
 
 <!--
 **ThatCodingFrog/ThatCodingFrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
