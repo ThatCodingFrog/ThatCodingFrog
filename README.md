@@ -5,6 +5,12 @@ Hello, I'm ThatCodingFrog.  I like programming games and building things to add 
 Current Projects:
 - Orion Editor (with AwesomeOrion) for Khan Academy
 - KA3D - 3D library with physics built on three.js
+- Harbour of Harkinian - an unofficial library + launcher for games made by the HarbourMasters64 team (Ship of Harkinian)
+
+Favorite Languages:
+- Javascript
+- HTML (usually wrapper for JS projects)
+- C++
 
 Khan Academy profile: https://www.khanacademy.org/profile/kaid_975241023347256277598232/projects
 
