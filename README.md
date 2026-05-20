@@ -13,6 +13,7 @@ Favorite Languages:
 - C++
 
 Khan Academy profile: https://www.khanacademy.org/profile/kaid_975241023347256277598232/projects
+
 Homepage: thatcodingfrog.github.io
 
 <!--
