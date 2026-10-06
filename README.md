@@ -18,6 +18,11 @@ Khan Academy profile: [https://www.khanacademy.org/profile/kaid_9752410233472562
 
 Homepage: [thatcodingfrog.github.io](https://thatcodingfrog.github.io/)
 
+## Some stats
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thatcodingfrog&count_private=true&show_icons=true&theme=dark" />
+</div>
+
 <!--
 **ThatCodingFrog/ThatCodingFrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
